@@ -7,6 +7,7 @@
 
 # Specific project binary names
 lan-chat
+lan-chat-*
 
 # Test binary, built with `go test -c`
 *.test
