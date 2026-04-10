@@ -25,3 +25,6 @@ vendor/
 
 # Ignore accidental local config file drops
 .lan-chat.json
+
+# Local Release descriptions
+release_*.md
