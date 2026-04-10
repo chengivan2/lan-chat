@@ -1,0 +1,26 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Specific project binary names
+lan-chat
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (since we use Go Modules)
+vendor/
+
+# OS or Editor folders
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore accidental local config file drops
+.lan-chat.json
