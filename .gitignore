@@ -4,6 +4,8 @@
 *.dll
 *.so
 *.dylib
+*.apk
+*.ipa
 
 # Specific project binary names
 lan-chat
